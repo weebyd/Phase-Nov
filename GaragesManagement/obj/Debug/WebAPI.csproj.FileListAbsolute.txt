@@ -1,0 +1,2 @@
+D:\ĐỒ ÁN\GaragesManagement\GaragesManagement\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+D:\ĐỒ ÁN\GaragesManagement\GaragesManagement\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
